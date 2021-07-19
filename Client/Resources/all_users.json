@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "userName": "privileged",
+      "password": "privileged",
+      "userType": "privileged"
+    },
+    {
+      "userName": "normal",
+      "password": "normal",
+      "userType": "normal"
+    }
+  ]
+}
